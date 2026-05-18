@@ -1,0 +1,36 @@
+[
+    {
+        "hastalik_adi": "Akut Gastroenterit",
+        "kategori": "SIK GÖRÜLEN HASTALIK",
+        "belirtiler": [
+            "ishal",
+            "kusma",
+            "karın ağrısı",
+            "bulantı",
+            "ateş"
+        ],
+        "tedavi": "IV hidrasyon, antiemetik, probiyotik desteği."
+    },
+    {
+        "hastalik_adi": "Üst Solunum Yolu Enfeksiyonu (ÜSYE)",
+        "kategori": "SIK GÖRÜLEN HASTALIK",
+        "belirtiler": [
+            "boğaz ağrısı",
+            "burun akıntısı",
+            "öksürük",
+            "halsizlik"
+        ],
+        "tedavi": "Semptomatik tedavi: Parasetamol, nazal dekonjestanlar, hidrasyon. Antibiyotik endikasyonu yoktur."
+    },
+    {
+        "hastalik_adi": "Esansiyel Hipertansiyon Atağı",
+        "kategori": "SIK GÖRÜLEN HASTALIK",
+        "belirtiler": [
+            "baş ağrısı",
+            "çarpıntı",
+            "ense ağrısı",
+            "yüksek tansiyon"
+        ],
+        "tedavi": "Acil serviste dilaltı kaptopril veya IV antihipertansif. Kardiyoloji takibi."
+    }
+]

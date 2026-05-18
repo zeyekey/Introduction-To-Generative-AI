@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model egitim checkpoint'leri (buyuk dosyalar - yerel tutulur)
+sentetik-epikriz-projesi/models/checkpoints/**
+!sentetik-epikriz-projesi/models/checkpoints/README.md
+
+# Hugging Face onbellek
+.cache/
+huggingface_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Gecici dosyalar
+*.tmp
+*.log

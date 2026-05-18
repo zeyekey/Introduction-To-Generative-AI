@@ -1,0 +1,37 @@
+[
+    {
+        "hastalik_adi": "Behçet Hastalığı",
+        "kategori": "NADİR HASTALIK",
+        "belirtiler": [
+            "aft",
+            "üveit",
+            "genital ülser",
+            "hla-b51",
+            "eritema nodozum"
+        ],
+        "tedavi": "Sistemik kortikosteroidler (Prednol), Kolşisin, İmmünsüpresif ajanlar. Oftalmoloji acili."
+    },
+    {
+        "hastalik_adi": "FMF (Ailevi Akdeniz Ateşi)",
+        "kategori": "NADİR HASTALIK",
+        "belirtiler": [
+            "karın ağrısı",
+            "tekrarlayan ateş",
+            "göğüs ağrısı",
+            "artrit",
+            "mevf"
+        ],
+        "tedavi": "Ömür boyu Kolşisin profilaksisi. Ataklarda NSAİİ. Nefroloji takibi."
+    },
+    {
+        "hastalik_adi": "Kistik Fibrozis",
+        "kategori": "NADİR HASTALIK",
+        "belirtiler": [
+            "tekrarlayan akciğer enfeksiyonu",
+            "tuzlu ter",
+            "büyüme geriliği",
+            "kronik öksürük"
+        ],
+        "tedavi": "Mukolitikler, solunum fizyoterapisi, pankreatik enzim replasmanı, inhale Tobramisin."
+    }
+]
